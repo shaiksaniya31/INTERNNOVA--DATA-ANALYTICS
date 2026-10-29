@@ -1,1 +1,0 @@
-# Internnova Data Analytics Internship
