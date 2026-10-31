@@ -18,3 +18,4 @@ print(df.isnull().sum())
 # Basic statistics
 print("\nSales Summary:")
 print(df.describe())
+print("sales data analysis project")
